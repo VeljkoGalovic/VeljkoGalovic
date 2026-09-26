@@ -9,7 +9,7 @@ I'm an independent software developer from Serbia, passionate about full-stack e
 * **IOAI & IAIO Competitor** — Represented the Serbian national team at the International Olympiad in Artificial Intelligence and the International Winter AI Olympiad.
 
 #### 🛠️ Tech Stack & Tools
-* **Languages:** TypeScript, JavaScript, Python, SystemVerilog
+* **Languages:** TypeScript, JavaScript, Python, SystemVerilog, C++
 * **Frontend:** Next.js, React, Tailwind CSS
 * **Backend & DB:** Node.js, Prisma, PostgreSQL, Docker
 * **OS & Environment:** Fedora Linux, Git, Automated Workflows
