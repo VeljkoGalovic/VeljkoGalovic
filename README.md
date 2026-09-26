@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there, I'm Veljko 👋
 
-<!--
-**VeljkoGalovic/VeljkoGalovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an independent software developer from Serbia, passionate about full-stack engineering, system architecture, and building practical software products from scratch.
 
-Here are some ideas to get you started:
+#### 🚀 What I'm Building
+* **[LodgeTrack](https://lodgetrack.com)** — A multi-tenant property management SaaS designed for modern accommodations, built with Next.js, Prisma, PostgreSQL, and robust cloud infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🧠 Background & Achievements
+* **IOAI & IAIO Competitor** — Represented the Serbian national team at the International Olympiad in Artificial Intelligence and the International Winter AI Olympiad.
+
+#### 🛠️ Tech Stack & Tools
+* **Languages:** TypeScript, JavaScript, Python, SystemVerilog
+* **Frontend:** Next.js, React, Tailwind CSS
+* **Backend & DB:** Node.js, Prisma, PostgreSQL, Docker
+* **OS & Environment:** Fedora Linux, Git, Automated Workflows
+
+---
+📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE) | **Website:** [lodgetrack.com](https://lodgetrack.com)
