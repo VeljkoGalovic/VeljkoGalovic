@@ -15,4 +15,4 @@ I'm an independent software developer from Serbia, passionate about full-stack e
 * **OS & Environment:** Fedora Linux, Git, Automated Workflows
 
 ---
-📫 **Connect with me:** [LinkedIn]([https://linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/veljko-galovic-a7b624430/)](https://www.linkedin.com/in/veljko-galovic-a7b624430/) | **Website:** [lodgetrack.com](https://lodgetrack.com)
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/veljko-galovic-a7b624430/) | **Website:** [lodgetrack.com](https://lodgetrack.com)
